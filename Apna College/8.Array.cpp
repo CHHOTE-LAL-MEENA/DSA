@@ -53,10 +53,6 @@ void sumAndProductOfEle(int arr[], int sz)
     cout << "Product of all the elements is: " << product << endl;
 }
 
-void uniqueValues(int arr[],int sz){
-    
-}
-
 int main()
 {
     int arr[] = {1, 2, 3, 4, 5, 6, 7};
