@@ -32,7 +32,7 @@ int main()
     cout << "\nSize is:" << nums.size() << "\ncapacity is:" << nums.capacity();
     cout << "\nFront is:" << nums.front();
     cout << "\nBack is:" << nums.back();
-    cout << "\nAt index is:" << nums.at(4)<<endl;
+    cout << "\nAt index is:" << nums.at(4) << endl;
 
     uniqueVal(arr);
     return 0;
